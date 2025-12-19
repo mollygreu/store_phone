@@ -1,6 +1,6 @@
 import json
 
-from src.main import create_manual_categories, load_categories_from_json
+from main import create_manual_categories, load_categories_from_json
 from src.models import Category
 
 
